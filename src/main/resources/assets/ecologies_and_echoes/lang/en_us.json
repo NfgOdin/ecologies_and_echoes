@@ -1,0 +1,13 @@
+{
+  "itemGroup.ecologies_and_echoes": "Ecologies & Echoes",
+  "block.ecologies_and_echoes.echo_soil": "Echo Soil",
+  "item.ecologies_and_echoes.resonant_spore": "Resonant Spore",
+
+  "ecologies_and_echoes.configuration.title": "Ecologies & Echoes Configs",
+  "ecologies_and_echoes.configuration.section.ecologies_and_echoes.common.toml": "Ecologies & Echoes Configs",
+  "ecologies_and_echoes.configuration.section.ecologies_and_echoes.common.toml.title": "Ecologies & Echoes Configs",
+  "ecologies_and_echoes.configuration.items": "Item List",
+  "ecologies_and_echoes.configuration.logDirtBlock": "Log Dirt Block",
+  "ecologies_and_echoes.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ecologies_and_echoes.configuration.magicNumber": "Magic Number"
+}
